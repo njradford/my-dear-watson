@@ -12,7 +12,7 @@ Usage
 3. Place "watson.sh" and "crouton" inside the Downloads folder of your Chromebook.
 4. Enter crosh with with the "CTRL+ALT+T" shortcut and enter shell by typing "shell"
 5. Naviate to Downloads with "cd ~/Downloads"
-6. Run "Watson" with sudo sh watson.sh
+6. Run "Watson" with "sudo sh watson.sh"
 7. Purchase ingredients of choice for aforementioned sandwich making
 8. Make sandwich
 9. Return to enjoy Pantheon desktop environment.
