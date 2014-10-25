@@ -8,7 +8,7 @@ Usage
 
 1. Powerwash & Put your Chromebook into developer mode. The shortcut to powerwash is "CTRL+ALT+SHIFT+R" on the login screen before signing in. Follow your specific machine's instructions for placing it into developer mode.
 
-2. Download and unzip the <a href url="https://github.com/AldousP/MyDearWatson/archive/master.zip"> package from here </a>
+2. Download the package from the direct download link on the right, and unzip it.
 3. Place "watson.sh" and "crouton" inside the Downloads folder of your Chromebook.
 4. Enter crosh with with the "CTRL+ALT+T" shortcut and enter shell by typing "shell"
 5. Naviate to Downloads with "cd ~/Downloads"
