@@ -16,9 +16,7 @@ chroot () {
 	echo '#!/bin/sh
 	/usr/sbin/lightdm-session "gnome-session --session=pantheon"' >> xinit_pantheon 
 	chmod +x xinit_pantheon 
-	sudo chown root:root xinit_pantheon
-	sudo apt-get purge xfce4 xfce4-goodies xfce* shimmer-themes netsurf-gtk empathy telepathy indicator-messages brasero geary maya-calendar elementary-scan shotwell totem onboard gnome-orca espeak
-	sudo apt-get auto remove
+	sudo chown root:root xinit_
 }
 
 chrome () {
