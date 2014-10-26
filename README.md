@@ -21,7 +21,7 @@ Switch back and forth between Chrome OS and Elementary with "CTRL+ALT+SHIFT+ [ba
 
 Start elementary again by opening up a new crosh in ChromeOS, typing "shell", "sudo enter-chroot" and "startelementary"
 
-Enjoy. 
+Enjoy
 
 
 -AP
