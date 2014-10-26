@@ -16,7 +16,7 @@ chroot () {
 	echo '#!/bin/sh
 	/usr/sbin/lightdm-session "gnome-session --session=pantheon"' >> xinit_pantheon 
 	chmod +x xinit_pantheon 
-	sudo chown root:root xinit_
+	sudo chown root:root xinit_pantheon
 }
 
 chrome () {
