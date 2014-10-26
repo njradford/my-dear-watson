@@ -6,7 +6,7 @@ M.D.W. is a Shell script that will perform the usually arduuos task of installin
 Usage
 ============
 
-1. Powerwash & Put your Chromebook into developer mode. The shortcut to powerwash is "CTRL+ALT+SHIFT+R" on the login screen before signing in. Follow your specific machine's instructions for placing it into developer mode.
+1. Put your Chromebook into developer mode. Follow your specific machine's instructions for placing it into developer mode.
 
 2. Download the package from the direct download link on the right, and unzip it.
 3. Place "watson.sh" and "crouton" inside the Downloads folder of your Chromebook.
