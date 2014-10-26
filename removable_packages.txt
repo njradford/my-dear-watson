@@ -1,0 +1,1 @@
+	sudo apt-get purge xfce4 xfce4-goodies xfce* shimmer-themes netsurf-gtk empathy telepathy indicator-messages brasero geary maya-calendar elementary-scan shotwell totem onboard gnome-orca espeak
