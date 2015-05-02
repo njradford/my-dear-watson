@@ -3,8 +3,8 @@ MyDearWatson (Elementary Installer for Intel Chromebooks)
 M.D.W. is a Shell script that installs Elementary Luna on an Intel based Chromebook.
 
 It uses [crouton](https://github.com/dnschneid/crouton) to switch back and forth between ChromeOS and Elementary. To switch, press:
-* ```ctrl + alt + →``` and then ```ctrl + alt + ↺``` to switch to Elementary
-* ```ctrl + alt + ←``` to switch back to ChromeOS
+* ```ctrl + alt + shift + →``` to switch to Elementary
+* ```ctrl + alt + shift + ←``` to switch back to ChromeOS
 Starting from the esc button and going to the right, you should see a ```←``` button, then a ```→```, and then a ```↺```
 
 Usage
