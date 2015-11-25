@@ -25,7 +25,8 @@ chrome () {
 	cd /usr/local/bin
 	sudo cp startxfce4 startelementary
 	sudo sed -i 's/startxfce4/startelementary/' startelementary
-    echo Edit /usr/local/bin/startelementary
+	sudo startelementary
+	echo WELCOME TO PANTHEON
 }
 
 
