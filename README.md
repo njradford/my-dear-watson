@@ -1,4 +1,4 @@
-##Elementary Installer for Chromebook
+# Elementary Installer for Chromebook
 
 
 Shell script installs  Elementary on a Chromebook. Uses <a href="https://github.com/dnschneid/crouton"> Crouton<a>, to install base Ubuntu and elementary desktop over top.
