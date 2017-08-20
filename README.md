@@ -1,10 +1,9 @@
-My Dear Watson (Elementary Installer for Chromebook.)
-============
+##Elementary Installer for Chromebook
+
 
 Shell script installs  Elementary on a Chromebook. Uses <a href="https://github.com/dnschneid/crouton"> Crouton<a>, to install base Ubuntu and elementary desktop over top.
 
-Usage
-============
+# Usage
 
  Put your Chromebook into developer mode. Follow your specific machine's instructions for placing it into developer mode.
 
