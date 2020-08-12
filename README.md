@@ -11,7 +11,7 @@ Shell script installs  Elementary on a Chromebook. Uses <a href="https://github.
     
    + Place "watson.sh" and "crouton" inside the Downloads folder of your Chromebook.
     
-   + Enter crosh with with the "CTRL+ALT+T" shortcut and enter shell by typing "shell"
+   + Enter crosh with the "CTRL+ALT+T" shortcut and enter shell by typing "shell"
     
    + Naviate to Downloads with "cd ~/Downloads"
     
