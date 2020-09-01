@@ -2,7 +2,7 @@
 
 
 chroot () {
-	#Chroot specific functions that are fun from within precise when this script is called with an argument of "c"
+	#Chroot specific functions that are run from within precise when this script is called with an argument of "c"
 	#------------------------------------------------------------------
 	apt-get install -y python-software-properties
 	add-apt-repository -y ppa:elementary-os/stable
